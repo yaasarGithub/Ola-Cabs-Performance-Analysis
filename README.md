@@ -62,7 +62,7 @@ This project is a comprehensive analysis of Ola's performance metrics for the mo
 # How to Use
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ola-data-analyst-project.git
+   https://github.com/yaasarGithub/Ola-Cabs-Performance-Analysis.git
    ```
 2. Navigate to the desired folder for SQL scripts, Excel analysis, or Power BI dashboards.
 3. Open files in respective tools (SQL editor, Excel, Power BI) to explore the project.
