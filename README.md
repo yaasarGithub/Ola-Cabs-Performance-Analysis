@@ -56,8 +56,9 @@ This project is a comprehensive analysis of Ola's performance metrics for the mo
 ```
 
 ##Dashboard 
+[Dashboard Link] - https://github.com/yaasarGithub/Ola-Cabs-Performance-Analysis/blob/main/Ola%20Power%20BI%20Dashboard.pbix
 
-![Dashboard images](https://github.com/user-attachments/assets/1dee7782-bfbb-4928-a484-40f87069dd68)
+[Dashboard images](https://github.com/user-attachments/assets/1dee7782-bfbb-4928-a484-40f87069dd68)
 
 # How to Use
 1. Clone this repository:
@@ -73,6 +74,5 @@ This project is a comprehensive analysis of Ola's performance metrics for the mo
 - Integrating machine learning models for predictive analysis.
 
 # Author
-[Your Name](https://github.com/yourusername)  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+[Your Name] - https://github.com/yaasarGithub 
 **Email**: yaasarcse1999@gmail.com
