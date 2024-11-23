@@ -46,14 +46,6 @@ This project is a comprehensive analysis of Ola's performance metrics for the mo
 - **Revenue Insights**: Found the highest revenue-generating periods.
 - **Driver Ratings**: Suggested ways to improve driver performance.
 
-## Repository Structure
-```
-├── SQL_Scripts/          # SQL queries for data extraction
-├── Excel_Analysis/       # Excel files for data cleaning and analysis
-├── PowerBI_Dashboard/    # Power BI files and snapshots
-├── README.md             # Project documentation
-
-```
 
 #Dashboard 
 [Dashboard Link] - https://github.com/yaasarGithub/Ola-Cabs-Performance-Analysis/blob/main/Ola%20Power%20BI%20Dashboard.pbix
